@@ -5,7 +5,7 @@ An interactive, executive-level financial transactions dashboard built in *Micro
 ---
 
 ## 📊 Dashboard Preview
-<img width="1369" height="639" alt="Screenshot 2026-10-14 " src="https://github.com/user-attachments/assets/a40ddd64-7a82-462e-9334-79da80a43caf" />
+<img width="1378" height="639" alt="Dashboard55" src="https://github.com/user-attachments/assets/9d7ee193-7f00-43c5-bdcb-46266e5b8000" />
 
 
 
