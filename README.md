@@ -31,12 +31,11 @@ This project focuses on transforming raw financial and transactional data into a
 ---
 
 ## 📸 Dashboard Preview
-<img width="1575" height="728" alt="image" src="https://github.com/user-attachments/assets/cf677bcf-8380-4c3e-821b-4cbb5422de6e" />
+<img width="1576" height="726" alt="image" src="https://github.com/user-attachments/assets/b6bd0dbc-8356-40a7-a81f-e7dfa55c5d5e" />
 
----
 
 ## 💡 Key Learnings & Features
-* Built entirely compatible with *Excel 2013*, utilizing custom image icons and manual formatting to overcome version limitations.
+* Built entirely compatible with *Excel*, utilizing custom image icons and manual formatting to overcome version limitations.
 * Clean data modeling using *Pivot Tables* to compute averages and categorize status codes (0 and 1).
 * Professional dark-themed UI design optimized for readability and executive presentation.
 
