@@ -31,8 +31,8 @@ This project focuses on transforming raw financial and transactional data into a
 ---
 
 ## 📸 Dashboard Preview
-<img width="1576" height="726" alt="image" src="https://github.com/user-attachments/assets/b6bd0dbc-8356-40a7-a81f-e7dfa55c5d5e" />
 
+<img width="1576" height="730" alt="image" src="https://github.com/user-attachments/assets/a7ea6a11-41c2-4912-abea-da1ed228a740" />
 
 ## 💡 Key Learnings & Features
 * Built entirely compatible with *Excel*, utilizing custom image icons and manual formatting to overcome version limitations.
